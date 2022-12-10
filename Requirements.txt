@@ -5,3 +5,4 @@ seaborn
 sklearn
 scikit-learn
 Flask
+gunicorn
